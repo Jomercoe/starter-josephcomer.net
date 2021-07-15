@@ -42,12 +42,6 @@ collections:
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
 
-      - label: "Projects"
-        name: "projects"
-        file: "content/projects.md"
-        fields:
-          - { label: "Body", name: "body", widget: "markdown" }
-
       - label: "Research"
         name: "research"
         file: "content/research.md"
