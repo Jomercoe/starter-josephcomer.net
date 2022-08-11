@@ -6,4 +6,4 @@ aliases: ["about-me",]
 author: "Joseph Comer"
 ---
 
-About me!!
+Coming soon ...
