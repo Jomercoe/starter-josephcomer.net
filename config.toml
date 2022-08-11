@@ -19,10 +19,10 @@ min = "0.77.0"
 author = "Joseph Comer"
 description = "Joseph Comer's website"
 keywords = "blog,phd,academic,personal"
-info = ["PhD graduate", "Academic", "Lecturer", "Linguist"]
+info = ["Critical Sociolinguistics, Discourse Analysis and Social Semiotics"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "word."
+footerContent = "[SITE IN PROGRESS!]"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = true
@@ -113,7 +113,7 @@ weight = 2
 url = "research/"
 
 [[languages.en.menu.main]]
-name = "Curriculum Vitae"
+name = "CV"
 weight = 3
 url = "cv/"
 
